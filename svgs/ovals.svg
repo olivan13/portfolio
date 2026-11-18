@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 2428.07 1678">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+      }
+
+      .cls-2 {
+        stroke: #e6e6e6;
+        stroke-miterlimit: 10;
+        stroke-width: 2px;
+      }
+
+      .cls-3 {
+        clip-path: url(#clippath);
+      }
+    </style>
+    <clipPath id="clippath">
+      <rect class="cls-1" x="191.07" width="2237" height="1678"/>
+    </clipPath>
+  </defs>
+  <g id="bg_ovals" data-name="bg ovals">
+    <g class="cls-3">
+      <ellipse class="cls-2" cx="1085.53" cy="890.94" rx="1130.49" ry="463.36" transform="translate(-222.63 380.19) rotate(-18.05)"/>
+      <ellipse class="cls-2" cx="1085.68" cy="889.93" rx="1130.56" ry="463.33" transform="translate(-256.84 479.66) rotate(-22.35)"/>
+      <ellipse class="cls-2" cx="1085.67" cy="890.95" rx="1130.62" ry="463.3" transform="translate(-280.71 566.17) rotate(-26)"/>
+      <ellipse class="cls-2" cx="1085.68" cy="889.93" rx="1130.7" ry="463.27" transform="translate(-300.69 669.33) rotate(-30.3)"/>
+    </g>
+  </g>
+</svg>

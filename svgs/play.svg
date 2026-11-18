@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 581.1 581.1">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        opacity: .66;
+      }
+    </style>
+  </defs>
+  <g id="all_main_headers_playbutton" data-name="all main headers + playbutton">
+    <path class="cls-1" d="M290.55,0C130.07,0,0,130.07,0,290.55s130.07,290.55,290.55,290.55,290.55-130.07,290.55-290.55S451.03,0,290.55,0ZM421.98,322.1l-95.58,55.17-95.58,55.2c-18.75,10.79-42.15-2.72-42.15-24.34v-220.74c0-21.66,23.4-35.17,42.15-24.34l95.58,55.17,95.58,55.2c18.75,10.79,18.75,37.85,0,48.68Z"/>
+  </g>
+</svg>
