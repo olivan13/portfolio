@@ -951,6 +951,10 @@ body:has(dialog[open]) {
     box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.2);
 }
 
+    #reel-video p {
+        padding-top: clamp(6.9rem,12vw, 300rem);
+    }
+
 li {
     font-size: max(.93rem, 3.3vw);
 }  
